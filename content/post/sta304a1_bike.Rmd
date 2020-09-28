@@ -1,6 +1,6 @@
 ---
 title: "Avoid Bicycle Thefts in Toronto Using Historical Data"
-date: "September 27, 2020"
+date: 2020-09-27
 author: "Alan Chen"
 output: html_document
 ---
